@@ -1,8 +1,36 @@
-# 💫 About Me
-🔭 I’m currently working on Laravel | MySQL | Java | Arduino <br>👯 I’m looking to collaborate on Whatsapp Bot with NodeJS<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Spring Boot 3<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Acerca de mi.
+
+🔭 Actualmente estoy trabajando en:
+
+    Desarrollo de aplicaciones web utilizando Laravel y MySQL para créditos
+    Proyectos en Java y Arduino
+    Proyecto de Bots de Whatsapp
+
+👯 Busco colaborar en:
+
+    Desarrollar un Bot de WhatsApp utilizando NodeJS. ¡Estoy emocionado por explorar las capacidades de la automatización de mensajes!
+
+🤝 Necesito ayuda con:
+
+    Mejores prácticas y optimización en Spring Boot 3. Agradecería cualquier orientación o recursos para mejorar mis habilidades en este framework.
+
+🌱 Actualmente estoy aprendiendo:
+
+    Spring Boot 3, con un enfoque en el desarrollo de microservicios y aplicaciones web robustas, mejorando la seguridad.
+
+💬 Pregúntame sobre:
+
+    Desarrollo web con Laravel y Spring Boot
+    Bases de datos relacionales como MySQL y PostgreSQL
+    Proyectos de Arduino y electrónica
+    Automatización con NodeJS
+
+⚡ Dato curioso:
+
+    ¡Soy un apasionado de la tecnología que también disfruta de la musica! Me encanta aplicar principios de automatización a mi dia a dia, combinando mis habilidades en software y hardware para crear soluciones inteligentes.
 
 
-## 🌐 Socials
+## 🌐 Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanchezluys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchezluys) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sanchezluys) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanchezluys) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanchezluys) 
 
 # 💻 Tech Stack
