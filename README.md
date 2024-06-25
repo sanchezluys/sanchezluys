@@ -97,6 +97,23 @@ Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier 
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+### Sistemas Operativos
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Unix BSD](https://img.shields.io/badge/Unix%20BSD-0033A0?style=for-the-badge&logo=freebsd&logoColor=white)
+
+### Automatización
+![Embedded Systems](https://img.shields.io/badge/-Sistemas%20Embebidos-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC%20Control%20Systems-FFA500?style=for-the-badge&logo=siemens&logoColor=white)
+![Distributed Control Systems](https://img.shields.io/badge/-Sistemas%20de%20Control%20Distribuido-007396?style=for-the-badge&logo=java&logoColor=white)
+![Industrial Instrumentation](https://img.shields.io/badge/-Instrumentación%20Industrial-00A1F1?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Automation Networks](https://img.shields.io/badge/-Redes%20de%20Automatización-8B0000?style=for-the-badge&logo=cisco&logoColor=white)
+![Telecommunications Networks](https://img.shields.io/badge/-Redes%20de%20Telecomunicaciones-000080?style=for-the-badge&logo=verizon&logoColor=white)
+
+
+
 ### Otros
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
