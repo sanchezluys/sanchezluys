@@ -3,10 +3,10 @@
 ### 🔭 Actualmente estoy trabajando en
 - Desarrollo de aplicaciones web utilizando **Laravel** y **MySQL** para créditos
 - Proyectos en **Java** y **Arduino**
-- Proyecto de **Bots de Whatsapp**
+- Proyecto de **Bots de Whatsapp** con NodeJS
 
 ### 👯 Busco colaborar en
-Desarrollar un **Bot de WhatsApp** utilizando **NodeJS**. ¡Estoy emocionado por explorar las capacidades de la automatización de mensajes!
+Desarrollar un **Bot de WhatsApp** utilizando **NodeJS**. Asi como en desarrolllos de aplicaciones para movil. ¡Estoy emocionado por explorar las capacidades de la automatización de mensajes!
 
 ### 🤝 Necesito ayuda con
 Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier orientación o recursos para mejorar mis habilidades en este framework.
@@ -46,6 +46,7 @@ Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Desarrollo Web
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
