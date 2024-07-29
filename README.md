@@ -12,9 +12,9 @@ Desarrollar un **Bot de WhatsApp** utilizando **NodeJS**. Asi como en desarrolll
 Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier orientación o recursos para mejorar mis habilidades en este framework.
 
 ### 🌱 Actualmente estoy aprendiendo
-**Spring Boot 3**, con un enfoque en el desarrollo de microservicios y aplicaciones web robustas, mejorando la seguridad.
-**Colab, python con datos**
-**OCI de Oracle**
+- **Spring Boot 3**, con un enfoque en el desarrollo de microservicios y aplicaciones web robustas, mejorando la seguridad.
+- **Colab, python con datos**
+- **OCI de Oracle**
 
 ### 💬 Pregúntame sobre
 - Desarrollo web con **Laravel** y **Spring Boot**
