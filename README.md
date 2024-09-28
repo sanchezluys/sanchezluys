@@ -15,6 +15,7 @@ Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier 
 - **Spring Boot 3**, con un enfoque en el desarrollo de microservicios y aplicaciones web robustas, mejorando la seguridad.
 - **Colab, python con datos**
 - **OCI de Oracle**
+- **Azure** para presentar DP-900
 
 ### 💬 Pregúntame sobre
 - Desarrollo web con **Laravel** y **Spring Boot**
