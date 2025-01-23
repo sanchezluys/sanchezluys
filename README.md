@@ -4,7 +4,7 @@
 - Desarrollo de aplicaciones web utilizando **Laravel** y **MySQL** para créditos
 - Proyectos en **Java** y **Arduino**
 - Proyecto de **Bots de Whatsapp** con NodeJS
-- Proyectos de **Bots Whatsapp/Facebook/Instagram/Web** con AsisteClik
+- Proyectos de **Bots Whatsapp/Facebook/Instagram/Web** con AsisteClick
 
 ### 👯 Busco colaborar en
 Desarrollar un **Bot de WhatsApp** utilizando **NodeJS**. Asi como en desarrolllos de aplicaciones para movil. ¡Estoy emocionado por explorar las capacidades de la automatización de mensajes!
