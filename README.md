@@ -1,6 +1,7 @@
 # 💫 Acerca de mí
 
 ### 🔭 Actualmente estoy trabajando en
+- Desarrollo de **chatbots** con Inteligencia Artificial modelos **GPT 4.0** y GPT 4 mini
 - Desarrollo de aplicaciones web utilizando **Laravel** y **MySQL** para créditos
 - Proyectos en **Java** y **Arduino**
 - Proyecto de **Bots de Whatsapp** con NodeJS
