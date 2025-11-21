@@ -1,9 +1,9 @@
 # 💫 Acerca de mí
 
 ### 🔭 Actualmente estoy trabajando en
-- Desarrollo de **chatbots** con Inteligencia Artificial modelos **GPT 4.0** y GPT 4 mini
+- Desarrollo de **chatbots** con Inteligencia Artificial modelos 4.1, 4.0, 4.1 mini, 4.0 mini
 - Desarrollo de aplicaciones web utilizando **Laravel** y **MySQL** para créditos
-- Proyectos en **Java** y **Arduino**
+- Proyectos en **Java**, **Arduino** y *ESP32*
 - Proyecto de **Bots de Whatsapp** con NodeJS
 - Proyectos de **Bots Whatsapp/Facebook/Instagram/Web** con AsisteClick
 
@@ -11,17 +11,19 @@
 Desarrollar un **Bot de WhatsApp** utilizando **NodeJS**. Asi como en desarrolllos de aplicaciones para movil. ¡Estoy emocionado por explorar las capacidades de la automatización de mensajes!
 
 ### 🤝 Necesito ayuda con
-Mejores prácticas y optimización en **Spring Boot 3**. Agradecería cualquier orientación o recursos para mejorar mis habilidades en este framework.
+Mejores prácticas y optimización en **Spring Boot 3**.
 
 ### 🌱 Actualmente estoy aprendiendo
 - **Spring Boot 3**, con un enfoque en el desarrollo de microservicios y aplicaciones web robustas, mejorando la seguridad.
-- **Colab, python con datos**
-- **OCI de Oracle**
-- **Azure** para presentar DP-900
+- **Colab, python con datos** - Certificación Aprobada 2024
+- **OCI de Oracle** - Certificación Aprobada 2025
+- **Azure** para presentar DP-900 - Certificación no Aprobada
+- **Github Foundation** - Certificación Aprobada 2025
+- **N8N** para automatizar 
 
 ### 💬 Pregúntame sobre
-- Desarrollo web con **Laravel** y **Spring Boot**
-- Bases de datos relacionales como **MySQL** y **PostgreSQL**
+- Desarrollo web con **Laravel** y **Spring Boot**, **Python** **Arduino**
+- Bases de datos relacionales como **MySQL**, **PostgreSQL** **SQLite**
 - Proyectos de **Arduino** y electrónica
 - Automatización con **NodeJS**
 
